@@ -1,1 +1,2 @@
-https://fullstack-decal-fa22.github.io/project1-mannymnz/
+A personal website showcasing experience/activities
+(Under Construction)
